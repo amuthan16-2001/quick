@@ -1,4 +1,4 @@
-venv# Created by https://www.gitignore.io
+.venv# Created by https://www.gitignore.io
  
 ### OSX ###
 .DS_Store
